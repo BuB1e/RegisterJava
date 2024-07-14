@@ -1,3 +1,5 @@
+package models;
+
 // 6510451018 Harit Sombatsiri
 public class User {
     private String name;
